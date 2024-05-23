@@ -1,6 +1,7 @@
 # HR-Dashboard-MySQL-PowerBI
 
-![image](![db](https://github.com/raman2-dev/HR-Dashboard-MySQL-PowerBI/assets/80435227/3b7d13f3-05ce-4051-bf60-7bef34581c15))
+![image]([https://user-images.githubusercontent.com/56026296/229609893-b7b1f261-5941-45af-8322-1ccb2535d36b.png](https://github.com/raman2-dev/HR-Dashboard-MySQL-PowerBI/assets/80435227/3b7d13f3-05ce-4051-bf60-7bef34581c15))
+
 
 ## Data Used
 
