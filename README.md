@@ -33,9 +33,7 @@
 [HR Dashboard Pdf](https://github.com/raman2-dev/HR-Dashboard-MySQL-PowerBI/blob/main/Demo/HR%20Dashboard.pdf)
 
 
-## Demo
-
-Insert gif or link to demo/ Screenshot 
+## Demo / Screenshot
 
 ![db](https://github.com/raman2-dev/HR-Dashboard-MySQL-PowerBI/assets/80435227/9a91eae7-4bf5-490b-9413-187e56811470)
 
